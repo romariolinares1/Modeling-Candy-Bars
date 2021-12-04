@@ -2,6 +2,7 @@
 Name: Romario Linares
 Script Name: model_candybar.py
 Date: 12/2/2021
+GitHub Link: https://github.com/romariolinares1/Modeling-Candy-Bars 
 ------------------------------
 Description of Class: 
 NOTE: BEFORE RUNNING 'model_candybar.py', MAKE SURE YOU INPUT 'pip install pyfiglet' IN THE CMD TERMINAL
@@ -72,6 +73,10 @@ lists, where the function will choose a random string value from that list, and 
 method of Candybar(). After all of this, once each output is returned through each of the methods in the main base class, the demo program
 will write its contents in the form of tabled/individual profiles with ASCII art in the output file 'candybarprofile.txt'.
 
+Instructions:
+Before running the main python code 'model_candybar.py', make sure you type into the terminal 'pip install pyfiglet'. This will allow
+the program to use the ASCII art formatting that is in the pyfiglet package when imported. Make sure you  also have 'candybarprofile.txt' 
+open as well before running the code so you will be able to see the changes in the output file when running the code.
 ------------------------------
 Example of Final Output in the Text File:
 
